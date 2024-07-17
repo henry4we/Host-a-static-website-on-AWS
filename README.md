@@ -82,6 +82,9 @@ systemctl enable httpd
 systemctl start httpd
 ```
 
+![Alt text](/final-page.jpg)
+
+
 
 ## Conclusion
 This setup ensures a scalable, secure, and fault-tolerant environment for hosting a static web application, leveraging AWS's robust infrastructure.
